@@ -7,27 +7,27 @@ redirect_from:
   - /about.html
 ---
 
-# Biography
+<h1 style="font-size: 2.5em;">Biography</h1>
 
 I am a PhD candidate at the Auto Crash Laboratory, School of Vehicle and Mobility, Tsinghua University, advised by Prof. Qing Zhou and Associate Prof. Bingbing Nie. I am also a visiting student at the SafeAI Lab, Carnegie Mellon University, advised by Prof. Ding Zhao. My research focuses on digital pedestrians for autonomous driving safety evaluation and protection, including: 1) safety-critical pedestrian-AV interaction scenario generation via generative methods and offline reinforcement learning; 2) safety-critical pedestrian trajectory prediction via reinforcement learning from human feedback; 3) pedestrian decision-making analysis in safety-critical scenarios via virtual reality; and pedestrian active avoidance behavior collection via motion capture. Prior to Tsinghua, I received my B.Eng. in Automation (Railway Signaling and Control) from Central South University in 2022 with honors.
 
 Currently, I am an intern at the SafeAI Lab, CMU, and am seeking full-time positions starting this fall.
 
-# Education
+<h1 style="font-size: 2.5em;">Education</h1>
 
 - **Ph.D.** in Vehicle Engineering, Tsinghua University, 2022–present
 - **Visiting Student**, SafeAI Lab, Carnegie Mellon University, 2023–present
 - **B.Eng.** in Automation (Railway Signaling and Control), Central South University, 2018–2022
 
-# News
+<h1 style="font-size: 2.5em;">News</h1>
 
 - **[2025.03]** ...
 
-# Publications
+<h1 style="font-size: 2.5em;">Publications</h1>
 
 *(coming soon)*
 
-# Contact
+<h1 style="font-size: 2.5em;">Contact</h1>
 
 - 📧 siyuan-l22@mails.tsinghua.edu.cn
 - 📧 siyuanl5@andrew.cmu.edu
