@@ -20,9 +20,9 @@ Prior to Tsinghua, I received my B.S. Degree in Automation (Rail Transit Signal 
 
 <h1 style="font-size: 2.5em;">Education</h1>
 
-- **Ph.D.** in Vehicle Engineering, Tsinghua University, 2022–present
-- **Visiting Student**, SafeAI Lab, Carnegie Mellon University, 2023–present
-- **B.Eng.** in Automation (Railway Signaling and Control), Central South University, 2018–2022
+- **Ph.D.** in ACL Lab, Mechanical Engineering, School of Vehicle and Mobility, Tsinghua University, 2022–
+- **Visiting Student and Intern**, in SafeAI Lab, Department of Mechanical Engineering, Carnegie Mellon University, 2025.9–
+- **B.S.** in Rail Transit Signal and Control, School of Traffic & Transportation Engineering, Central South University, 2018–2022
 
 <h1 style="font-size: 2.5em;">News</h1>
 
