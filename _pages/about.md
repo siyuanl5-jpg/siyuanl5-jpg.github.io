@@ -14,7 +14,7 @@ redirect_from:
 2) Safety-critical pedestrian trajectory prediction;<br>
 3) Pedestrian decision-making analysis in safety-critical scenarios;<br>
 4) Pedestrian active avoidance  behavior collection via motion capture.<br>
-Prior to Tsinghua, I received my B.S. Degree in Automation (Rail Transit Signal and Control) from Central South University in 2022 with honors.</p>
+Prior to Tsinghua, I received my B.S. Degree in Automation (Rail Transit Signal and Control) from Central South University in 2022.</p>
 
 <p style="text-align: justify;">Currently, I am an intern at the SafeAI Lab, CMU, and am seeking full-time positions starting this fall.</p>
 
