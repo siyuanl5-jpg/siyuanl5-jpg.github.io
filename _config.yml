@@ -27,10 +27,8 @@ author:
   name             : "Siyuan Liu"
   pronouns         : # example: "she/her"  
   location         : "Beijing China"
-  employer         : "Tsinghua University
-                      Carnegie Mellon University"
-  email            : "siyuan-l22@mails.tsinghua.edu.cn
-                      siyuanl5@andrew.cmu.edu" 
+  employer         : "Tsinghua University<br>Carnegie Mellon University"
+  email            : "siyuan-l22@mails.tsinghua.edu.cn<br>siyuanl5@andrew.cmu.edu" 
 
   # Academic websites
   academia         : # URL
