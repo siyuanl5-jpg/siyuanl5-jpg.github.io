@@ -35,7 +35,7 @@ Prior to Tsinghua, I received my B.S. Degree in Automation (Rail Transit Signal 
 **Constructing a virtual testing platform on pedestrian safety incorporating active human behaviour for highly automated vehicles**  
 **Siyuan Liu**, Quan Li, Qing Zhou, Bingbing Nie  
 *IRCOBI Conference*, 2023  
-[PDF](/files/IRCOBI2023.pdf)
+[PDF](/files/Constructing a virtual testing platform on pedestrian safety incorporating active human behaviour for highly automated vehicles.pdf)
 
 <h1 style="font-size: 2.5em;">Contact</h1>
 
