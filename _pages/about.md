@@ -28,10 +28,6 @@ Prior to Tsinghua, I received my B.S. Degree in Automation (Rail Transit Signal 
 </ul>
 </div>
 
-<h1 style="font-size: 2.5em;">News</h1>
-
-- **[2025.03]** ...
-
 <h1 style="font-size: 2.5em;">Publications</h1>
 
 *(coming soon)*
