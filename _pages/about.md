@@ -10,11 +10,11 @@ redirect_from:
 <h1 style="font-size: 2.5em;">Biography</h1>
 
 <p style="text-align: justify;">I am a final-year PhD student at the Automotive Collision Laboratory (ACL), School of Vehicle and Mobility, Tsinghua University, advised by Prof. Qing Zhou and Prof. Bingbing Nie. I am also an intern at the SafeAI Lab, Carnegie Mellon University, advised by Prof. Ding Zhao. My research focuses on digital pedestrians for autonomous driving safety evaluation and protection, including:<br>
-1) safety-critical pedestrian-AV interaction scenario generation via generative methods and offline reinforcement learning;<br>
-2) safety-critical pedestrian trajectory prediction via reinforcement learning from human feedback;<br>
-3) pedestrian decision-making analysis in safety-critical scenarios via virtual reality;<br>
-4) pedestrian active avoidance behavior collection via motion capture.<br>
-Prior to Tsinghua, I received my B.Eng. in Automation (Railway Signaling and Control) from Central South University in 2022 with honors.</p>
+1) Safety-critical pedestrian-AV interaction scenario generation;<br>
+2) Safety-critical pedestrian trajectory prediction;<br>
+3) Pedestrian decision-making analysis in safety-critical scenarios;<br>
+4) Pedestrian active avoidance  behavior collection via motion capture.<br>
+Prior to Tsinghua, I received my B.S. Degree in Automation (Rail Transit Signal and Control) from Central South University in 2022 with honors.</p>
 
 <p style="text-align: justify;">Currently, I am an intern at the SafeAI Lab, CMU, and am seeking full-time positions starting this fall.</p>
 
