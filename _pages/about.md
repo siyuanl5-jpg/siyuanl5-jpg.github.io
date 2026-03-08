@@ -30,10 +30,6 @@ Prior to Tsinghua, I received my B.S. Degree in Automation (Rail Transit Signal 
 
 <h1 style="font-size: 2.5em;">Publications</h1>
 
-<h1 style="font-size: 2.5em;">Publications</h1>
-
-<h1 style="font-size: 2.5em;">Publications</h1>
-
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div>
     <p style="margin: 0; font-size: 1.1em;"><strong>Constructing a virtual testing platform on pedestrian safety incorporating active human behaviour for highly automated vehicles</strong></p>
