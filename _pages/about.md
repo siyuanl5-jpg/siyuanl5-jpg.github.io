@@ -38,7 +38,7 @@ Prior to Tsinghua, I received my B.S. Degree in Automation (Rail Transit Signal 
     <a href="/files/IRCOBI2023.pdf" style="display: inline-block; border: 1px solid #888; border-radius: 4px; padding: 2px 8px; font-size: 0.85em; text-decoration: none; color: inherit; margin-top: 6px;">PDF</a>
   </div>
   <div>
-    <img src="/images/IRCOBI2023.png" style="width: 150px; border: 1px solid #ddd;" />
+    <img src="/images/IRCOBI2023.png" style="width: 200px; border: 1px solid #ddd;" />
   </div>
 </div>
 
