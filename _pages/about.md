@@ -9,7 +9,7 @@ redirect_from:
 
 <h1 style="font-size: 2.5em;">Biography</h1>
 
-<p style="text-align: justify;">I am a PhD candidate at the Auto Crash Laboratory, School of Vehicle and Mobility, Tsinghua University, advised by Prof. Qing Zhou and Associate Prof. Bingbing Nie. I am also a visiting student at the SafeAI Lab, Carnegie Mellon University, advised by Prof. Ding Zhao. My research focuses on digital pedestrians for autonomous driving safety evaluation and protection, including:<br>
+<p style="text-align: justify;">I am a final-year PhD student at the Automotive Collision Laboratory, School of Vehicle and Mobility, Tsinghua University, advised by Prof. Qing Zhou and Associate Prof. Bingbing Nie. I am also a visiting student at the SafeAI Lab, Carnegie Mellon University, advised by Prof. Ding Zhao. My research focuses on digital pedestrians for autonomous driving safety evaluation and protection, including:<br>
 1) safety-critical pedestrian-AV interaction scenario generation via generative methods and offline reinforcement learning;<br>
 2) safety-critical pedestrian trajectory prediction via reinforcement learning from human feedback;<br>
 3) pedestrian decision-making analysis in safety-critical scenarios via virtual reality;<br>
