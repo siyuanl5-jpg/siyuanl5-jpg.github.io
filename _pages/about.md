@@ -16,7 +16,7 @@ redirect_from:
 4) Pedestrian active avoidance  behavior collection via Motion Capture.<br>
 Prior to Tsinghua, I received my B.S. Degree in Automation (Rail Transit Signal and Control) from Central South University in 2022.</p>
 
-<p style="text-align: justify;">I’m currently working as a fulltime inter at the SafeAI Lab, Carnegie Mellon University. I will on the job market this fall for a full-time position!</p>
+<p style="text-align: justify;">I’m currently working as a fulltime intern at the SafeAI Lab, Carnegie Mellon University. I will on the job market this fall for a full-time position!</p>
 
 <h1 style="font-size: 2.5em;">Education</h1>
 
