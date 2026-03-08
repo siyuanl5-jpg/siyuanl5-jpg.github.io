@@ -30,15 +30,15 @@ Prior to Tsinghua, I received my B.S. Degree in Automation (Rail Transit Signal 
 
 <h1 style="font-size: 2.5em;">Publications</h1>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px; gap: 20px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px; gap: 24px; padding: 16px; border-radius: 8px; background: #f9f9f9;">
   <div style="flex: 1;">
-    <p style="margin: 0; font-size: 1.1em;"><strong>Constructing a virtual testing platform on pedestrian safety incorporating active human behaviour for highly automated vehicles</strong></p>
-    <p style="margin: 4px 0; color: gray;">IRCOBI Conference 2023</p>
-    <p style="margin: 4px 0;"><strong>Siyuan Liu</strong>, Quan Li, Qing Zhou, Bingbing Nie</p>
-    <a href="/files/IRCOBI2023.pdf" style="display: inline-block; border: 1px solid #888; border-radius: 4px; padding: 2px 8px; font-size: 0.85em; text-decoration: none; color: inherit; margin-top: 6px;">PDF</a>
+    <p style="margin: 0 0 6px 0; font-size: 1.05em; line-height: 1.4;"><strong>Constructing a virtual testing platform on pedestrian safety incorporating active human behaviour for highly automated vehicles</strong></p>
+    <p style="margin: 0 0 4px 0; color: #e05; font-size: 0.9em; font-weight: bold;">IRCOBI Conference 2023</p>
+    <p style="margin: 0 0 10px 0; color: #555; font-size: 0.9em;"><strong>Siyuan Liu</strong>, Quan Li, Qing Zhou, Bingbing Nie</p>
+    <a href="/files/IRCOBI2023.pdf" style="display: inline-block; border: 1px solid #aaa; border-radius: 4px; padding: 3px 10px; font-size: 0.82em; text-decoration: none; color: #333; background: white;">PDF</a>
   </div>
   <div>
-    <img src="/images/IRCOBI2023.png" style="width: 180px; object-fit: contain; border: 1px solid #ddd;" />
+    <img src="/images/IRCOBI2023.png" style="width: 140px; border-radius: 6px; border: 1px solid #ddd; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
   </div>
 </div>
 
