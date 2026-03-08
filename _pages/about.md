@@ -9,11 +9,13 @@ redirect_from:
 
 <h1 style="font-size: 2.5em;">Biography</h1>
 
-<p style="text-align: justify;">I am a final-year PhD student at the Automotive Collision Laboratory (ACL), School of Vehicle and Mobility, Tsinghua University, advised by Prof. Qing Zhou and Prof. Bingbing Nie. I am also an intern at the SafeAI Lab, Carnegie Mellon University, advised by Prof. Ding Zhao. My research focuses on modeling digital pedestrians for autonomous driving safety evaluation and developing pedestrian protection algorithm, including:<br>
-1) Safety-critical pedestrian-AV interaction scenario generation via Diffusion and Offline RL;<br>
-2) Safety-critical pedestrian trajectory prediction via RLHF;<br>
-3) Pedestrian decision-making analysis in safety-critical scenarios via Virtual Reality;<br>
-4) Pedestrian active avoidance  behavior collection via Motion Capture.<br>
+<p style="text-align: justify;">I am a final-year PhD student at the Automotive Collision Laboratory (ACL), School of Vehicle and Mobility, Tsinghua University, advised by Prof. Qing Zhou and Prof. Bingbing Nie. I am also an intern at the SafeAI Lab, Carnegie Mellon University, advised by Prof. Ding Zhao. My research focuses on modeling digital pedestrians for autonomous driving safety evaluation and developing pedestrian protection algorithm, including:
+<ul style="margin: 6px 0; padding-left: 20px;">
+<li>Safety-critical pedestrian-AV interaction scenario generation via Diffusion and Offline RL;</li>
+<li>Safety-critical pedestrian trajectory prediction via RLHF;</li>
+<li>Pedestrian decision-making analysis in safety-critical scenarios via Virtual Reality;</li>
+<li>Pedestrian active avoidance behavior collection via Motion Capture.</li>
+</ul>
 Prior to Tsinghua, I received my B.S. Degree in Automation (Rail Transit Signal and Control) from Central South University in 2022.</p>
 
 <p style="text-align: justify;">I’m currently working as a fulltime intern at the SafeAI Lab, Carnegie Mellon University. I will on the job market this fall for a full-time position!</p>
