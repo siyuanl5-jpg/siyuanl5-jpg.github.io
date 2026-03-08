@@ -30,15 +30,15 @@ Prior to Tsinghua, I received my B.S. Degree in Automation (Rail Transit Signal 
 
 <h1 style="font-size: 2.5em;">Publications</h1>
 
-<div style="display: flex; align-items: stretch; margin-bottom: 20px; gap: 20px;">
+<div style="display: flex; align-items: center; margin-bottom: 20px; gap: 20px;">
   <div style="flex: 1;">
     <p style="margin: 0; font-size: 1.1em;"><strong>Constructing a virtual testing platform on pedestrian safety incorporating active human behaviour for highly automated vehicles</strong></p>
     <p style="margin: 4px 0; color: gray;">IRCOBI Conference 2023</p>
     <p style="margin: 4px 0;"><strong>Siyuan Liu</strong>, Quan Li, Qing Zhou, Bingbing Nie</p>
     <a href="/files/IRCOBI2023.pdf" style="display: inline-block; border: 1px solid #888; border-radius: 4px; padding: 2px 8px; font-size: 0.85em; text-decoration: none; color: inherit; margin-top: 6px;">PDF</a>
   </div>
-  <div style="display: flex; align-items: center;">
-    <img src="/images/IRCOBI2023.png" style="width: 180px; height: 100%; object-fit: cover; border: 1px solid #ddd;" />
+  <div>
+    <img src="/images/IRCOBI2023.png" style="width: 180px; object-fit: contain; border: 1px solid #ddd;" />
   </div>
 </div>
 
