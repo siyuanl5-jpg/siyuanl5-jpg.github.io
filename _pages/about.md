@@ -32,10 +32,16 @@ Prior to Tsinghua, I received my B.S. Degree in Automation (Rail Transit Signal 
 
 <h1 style="font-size: 2.5em;">Publications</h1>
 
-**Constructing a virtual testing platform on pedestrian safety incorporating active human behaviour for highly automated vehicles**  
-**Siyuan Liu**, Quan Li, Qing Zhou, Bingbing Nie  
-*IRCOBI Conference*, 2023  
-[PDF](/files/Constructing a virtual testing platform on pedestrian safety incorporating active human behaviour for highly automated vehicles.pdf)
+<h1 style="font-size: 2.5em;">Publications</h1>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div>
+    <p style="margin: 0; font-size: 1.1em;"><strong>Constructing a virtual testing platform on pedestrian safety incorporating active human behaviour for highly automated vehicles</strong></p>
+    <p style="margin: 4px 0; color: gray;">IRCOBI Conference 2023</p>
+    <p style="margin: 4px 0;"><strong>Siyuan Liu</strong>, Quan Li, Qing Zhou, Bingbing Nie</p>
+    <a href="/files/IRCOBI2023.pdf" style="display: inline-block; border: 1px solid #888; border-radius: 4px; padding: 2px 8px; font-size: 0.85em; text-decoration: none; color: inherit; margin-top: 6px;">PDF</a>
+  </div>
+</div>
 
 <h1 style="font-size: 2.5em;">Contact</h1>
 
