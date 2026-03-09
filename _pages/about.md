@@ -14,7 +14,7 @@ redirect_from:
 <li>Safety-critical pedestrian-AV interaction scenario generation via Diffusion and Offline RL;</li>
 <li>Safety-critical pedestrian trajectory prediction via RLHF;</li>
 <li>Pedestrian decision-making analysis in safety-critical scenarios via Virtual Reality;</li>
-<li>Pedestrian active avoidance behavior collection via Motion Capture.</li>
+<li>Pedestrian active avoidance behavior analysis via Motion Capture.</li>
 </ul>
 Prior to Tsinghua, I received my B.S. Degree in Automation (Rail Transit Signal and Control) from Central South University in 2022.</p>
 
