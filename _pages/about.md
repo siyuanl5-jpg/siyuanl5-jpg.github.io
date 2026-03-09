@@ -111,6 +111,19 @@ Prior to Tsinghua, I received my B.S. Degree in Automation (Rail Transit Signal 
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px; gap: 24px; padding: 16px 0 16px 20px; border-bottom: 1px solid #eee;">
   <div style="flex: 1;">
+    <p style="margin: 0 0 8px 0; font-size: 1.05em; line-height: 1.5; text-align: justify; padding-right: 10px;"><strong><a href="https://doi.org/10.1016/j.aap.2024.107870" style="text-decoration: none; color: inherit;">Activation strategies and effectiveness of Intelligent safety systems for reducing pedestrian injuries in autonomous vehicles</a></strong></p>
+    <p style="margin: 0 0 6px 0; font-size: 0.95em;">Quan Li, Yiran Luo, <strong>Siyuan Liu</strong>, Tianle Lu, Liangliang Shi, Wei Ji, Yong Han, Hong Wang, Bingbing Nie &nbsp;
+      <a href="https://doi.org/10.1016/j.aap.2024.107870" style="border: 1px solid #0066cc; border-radius: 4px; padding: 1px 10px; font-size: 0.82em; text-decoration: none; color: #0066cc; background: #f0f5ff;">PDF</a>
+    </p>
+    <p style="margin: 0; font-size: 0.9em; color: #e07b00; font-style: italic; font-weight: 500;">Accident Analysis & Prevention, 2025</p>
+  </div>
+  <div style="flex-shrink: 0;">
+    <img src="/images/AAP2025.png" style="width: 160px; border: 1px solid #ddd; border-radius: 4px; box-shadow: 2px 2px 6px rgba(0,0,0,0.1);" />
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px; gap: 24px; padding: 16px 0 16px 20px; border-bottom: 1px solid #eee;">
+  <div style="flex: 1;">
     <p style="margin: 0 0 8px 0; font-size: 1.05em; line-height: 1.5; text-align: justify; padding-right: 10px;"><strong><a href="/files/SAE2026.pdf" style="text-decoration: none; color: inherit;">Pre-Crash Scenario Analysis and Generation for Integrated Safety System Virtual Testing with Real Accident Data</a></strong></p>
     <p style="margin: 0 0 6px 0; font-size: 0.95em;">Guojie Wang, Xin Gao, <strong>Siyuan Liu</strong>, Jiaxin Liu, Quan Li, Liangliang Shi, Bingbing Nie &nbsp;
       <a href="/files/SAE2026.pdf" style="border: 1px solid #0066cc; border-radius: 4px; padding: 1px 10px; font-size: 0.82em; text-decoration: none; color: #0066cc; background: #f0f5ff;">PDF</a>
