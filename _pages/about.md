@@ -10,7 +10,7 @@ redirect_from:
 <h1 style="font-size: 2.5em;">Biography</h1>
 
 <p style="text-align: justify;">I am a final-year PhD student at the Automotive Collision Laboratory (ACL), School of Vehicle and Mobility, Tsinghua University, advised by Prof. Qing Zhou and Prof. Bingbing Nie. I am also an intern at the SafeAI Lab, Carnegie Mellon University, advised by Prof. Ding Zhao. My research focuses on modeling digital pedestrians for autonomous driving safety evaluation and developing pedestrian protection algorithm, including:
-<ul style="margin: 6px 0; padding-left: 20px;">
+<ul style="margin: 6px 0; padding-left: 40px;">
 <li>Safety-critical pedestrian-AV interaction scenario generation via Diffusion and Offline RL;</li>
 <li>Safety-critical pedestrian trajectory prediction via RLHF;</li>
 <li>Pedestrian decision-making analysis in safety-critical scenarios via Virtual Reality;</li>
@@ -18,12 +18,11 @@ redirect_from:
 </ul>
 Prior to Tsinghua, I received my B.S. Degree in Automation (Rail Transit Signal and Control) from Central South University in 2022.</p>
 
-<p style="text-align: justify;">I’m currently working as a fulltime intern at the SafeAI Lab, Carnegie Mellon University. I will on the job market this fall for a full-time position!</p>
+<p style="text-align: justify;">I'm currently working as a fulltime intern at the SafeAI Lab, Carnegie Mellon University. I will on the job market this fall for a full-time position!</p>
 
 <h1 style="font-size: 2.5em;">Education</h1>
-
 <div style="text-align: justify;">
-<ul>
+<ul style="padding-left: 40px;">
 <li><strong>Ph.D.</strong> in ACL Lab, Mechanical Engineering, School of Vehicle and Mobility, Tsinghua University, 2022–</li>
 <li><strong>Visiting Student and Intern</strong> in SafeAI Lab, Department of Mechanical Engineering, Carnegie Mellon University, 2025.9–</li>
 <li><strong>B.S.</strong> in Rail Transit Signal and Control, School of Traffic & Transportation Engineering, Central South University, 2018–2022</li>
@@ -34,9 +33,9 @@ Prior to Tsinghua, I received my B.S. Degree in Automation (Rail Transit Signal 
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px; gap: 24px; padding: 16px 0 16px 20px; border-bottom: 1px solid #eee;">
   <div style="flex: 1;">
-    <p style="margin: 0 0 8px 0; font-size: 1.05em; line-height: 1.5; text-align: justify; padding-right: 10px;"><strong><a href="/files/TIP2025.pdf" style="text-decoration: none; color: inherit;">Investigation of pre-crash avoidance kinematics in pedestrians of different ages through volunteer experiment and scaling methodology</a></strong></p>
+    <p style="margin: 0 0 8px 0; font-size: 1.05em; line-height: 1.5; text-align: justify; padding-right: 10px;"><strong><a href="/files/TIP2025.PDF" style="text-decoration: none; color: inherit;">Investigation of pre-crash avoidance kinematics in pedestrians of different ages through volunteer experiment and scaling methodology</a></strong></p>
     <p style="margin: 0 0 6px 0; font-size: 0.95em;"><strong>Siyuan Liu</strong>, Quan Li, Huamu Sun, Qing Zhou, Bingbing Nie &nbsp;
-      <a href="/files/TIP2025.pdf" style="border: 1px solid #0066cc; border-radius: 4px; padding: 1px 10px; font-size: 0.82em; text-decoration: none; color: #0066cc; background: #f0f5ff;">PDF</a>
+      <a href="/files/TIP2025.PDF" style="border: 1px solid #0066cc; border-radius: 4px; padding: 1px 10px; font-size: 0.82em; text-decoration: none; color: #0066cc; background: #f0f5ff;">PDF</a>
     </p>
     <p style="margin: 0; font-size: 0.9em; color: #e07b00; font-style: italic; font-weight: 500;">Traffic Injury Prevention, 2025</p>
   </div>
