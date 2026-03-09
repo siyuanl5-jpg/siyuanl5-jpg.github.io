@@ -63,7 +63,7 @@ Prior to Tsinghua, I received my B.S. Degree in Automation (Rail Transit Signal 
     <p style="margin: 0 0 6px 0; font-size: 0.95em;"><strong>Siyuan Liu</strong>, Quan Li, Puyuan Tan, Huamu Sun, Bo Zhang, Wei Lu, Zheng Wang, Qing Zhou, Bingbing Nie &nbsp;
       <a href="/files/TITS2026.pdf" style="border: 1px solid #0066cc; border-radius: 4px; padding: 1px 10px; font-size: 0.82em; text-decoration: none; color: #0066cc; background: #f0f5ff;">PDF</a>
     </p>
-    <p style="margin: 0; font-size: 0.9em; color: #e07b00; font-style: italic; font-weight: 500;">IEEE Transactions on Intelligent Transportation Systems, 2026</p>
+    <p style="margin: 0; font-size: 0.9em; color: #e07b00; font-style: italic; font-weight: 500;">IEEE Transactions on Intelligent Transportation Systems, under review</p>
   </div>
   <div style="flex-shrink: 0;">
     <img src="/images/TITS2026.png" style="width: 160px; border: 1px solid #ddd; border-radius: 4px; box-shadow: 2px 2px 6px rgba(0,0,0,0.1);" />
