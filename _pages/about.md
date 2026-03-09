@@ -166,7 +166,7 @@ Prior to Tsinghua, I received my B.S. Degree in Automation (Rail Transit Signal 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px; gap: 24px; padding: 16px 0 16px 20px; border-bottom: 1px solid #eee;">
   <div style="flex: 1;">
     <p style="margin: 0 0 8px 0; font-size: 1.05em; line-height: 1.5; text-align: justify; padding-right: 10px;"><strong><a href="/files/Patent-1.pdf" style="text-decoration: none; color: inherit;">Virtual collision testing methods, apparatus, equipment, storage media, and software products</a></strong></p>
-    <p style="margin: 0 0 6px 0; font-size: 0.95em;">Bingbing Nie, <strong>Siyuan Liu</strong>, Quan Li &nbsp;
+    <p style="margin: 0 0 6px 0; font-size: 0.95em;">Bingbing Nie, <strong>Siyuan Liu</strong>, Quan Li, Qing Zhou &nbsp;
       <a href="/files/Patent-1.pdf" style="border: 1px solid #0066cc; border-radius: 4px; padding: 1px 10px; font-size: 0.82em; text-decoration: none; color: #0066cc; background: #f0f5ff;">PDF</a>
     </p>
     <p style="margin: 0; font-size: 0.9em; color: #e07b00; font-style: italic; font-weight: 500;">Chinese Patent, ZL 202211605116.9, 2024</p>
@@ -179,7 +179,7 @@ Prior to Tsinghua, I received my B.S. Degree in Automation (Rail Transit Signal 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px; gap: 24px; padding: 16px 0 16px 20px; border-bottom: 1px solid #eee;">
   <div style="flex: 1;">
     <p style="margin: 0 0 8px 0; font-size: 1.05em; line-height: 1.5; text-align: justify; padding-right: 10px;"><strong><a href="/files/Patent-2.pdf" style="text-decoration: none; color: inherit;">Risk domain identification methods, apparatus, computer equipment, media and program products</a></strong></p>
-    <p style="margin: 0 0 6px 0; font-size: 0.95em;">Bingbing Nie, <strong>Siyuan Liu</strong>, Quan Li &nbsp;
+    <p style="margin: 0 0 6px 0; font-size: 0.95em;">Bingbing Nie, <strong>Siyuan Liu</strong>, Quan Li, Qing Zhou &nbsp;
       <a href="/files/Patent-2.pdf" style="border: 1px solid #0066cc; border-radius: 4px; padding: 1px 10px; font-size: 0.82em; text-decoration: none; color: #0066cc; background: #f0f5ff;">PDF</a>
     </p>
     <p style="margin: 0; font-size: 0.9em; color: #e07b00; font-style: italic; font-weight: 500;">Chinese Patent, ZL 202211621618.0, 2023</p>
