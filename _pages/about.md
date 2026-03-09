@@ -105,7 +105,7 @@ Prior to Tsinghua, I received my B.S. Degree in Automation (Rail Transit Signal 
     <p style="margin: 0; font-size: 0.9em; color: #e07b00; font-style: italic; font-weight: 500;">Cell Reports Physical Science, 2025</p>
   </div>
   <div style="flex-shrink: 0;">
-    <img src="/images/CRPS2026.png" style="width: 160px; border: 1px solid #ddd; border-radius: 4px; box-shadow: 2px 2px 6px rgba(0,0,0,0.1);" />
+    <img src="/images/CRPS2025.png" style="width: 160px; border: 1px solid #ddd; border-radius: 4px; box-shadow: 2px 2px 6px rgba(0,0,0,0.1);" />
   </div>
 </div>
 
