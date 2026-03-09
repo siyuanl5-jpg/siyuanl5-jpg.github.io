@@ -33,6 +33,19 @@ Prior to Tsinghua, I received my B.S. Degree in Automation (Rail Transit Signal 
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px; gap: 24px; padding: 16px 0 16px 20px; border-bottom: 1px solid #eee;">
   <div style="flex: 1;">
+    <p style="margin: 0 0 8px 0; font-size: 1.05em; line-height: 1.5; text-align: justify; padding-right: 10px;"><strong><a href="/files/TITS.pdf" style="text-decoration: none; color: inherit;">How Pedestrians React to Imminent Vehicle Threats: A Virtual Reality Study in Safety-Critical Scenarios</a></strong></p>
+    <p style="margin: 0 0 6px 0; font-size: 0.95em;"><strong>Siyuan Liu</strong>, Quan Li, Puyuan Tan, Huamu Sun, Bo Zhang, Wei Lu, Zheng Wang, Qing Zhou, Bingbing Nie &nbsp;
+      <a href="/files/TITS.pdf" style="border: 1px solid #0066cc; border-radius: 4px; padding: 1px 10px; font-size: 0.82em; text-decoration: none; color: #0066cc; background: #f0f5ff;">PDF</a>
+    </p>
+    <p style="margin: 0; font-size: 0.9em; color: #e07b00; font-style: italic; font-weight: 500;">IEEE Transactions on Intelligent Transportation Systems, 2026</p>
+  </div>
+  <div style="flex-shrink: 0;">
+    <img src="/images/TITS.png" style="width: 160px; border: 1px solid #ddd; border-radius: 4px; box-shadow: 2px 2px 6px rgba(0,0,0,0.1);" />
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px; gap: 24px; padding: 16px 0 16px 20px; border-bottom: 1px solid #eee;">
+  <div style="flex: 1;">
     <p style="margin: 0 0 8px 0; font-size: 1.05em; line-height: 1.5; text-align: justify; padding-right: 10px;"><strong><a href="/files/TIP2025.PDF" style="text-decoration: none; color: inherit;">Investigation of pre-crash avoidance kinematics in pedestrians of different ages through volunteer experiment and scaling methodology</a></strong></p>
     <p style="margin: 0 0 6px 0; font-size: 0.95em;"><strong>Siyuan Liu</strong>, Quan Li, Huamu Sun, Qing Zhou, Bingbing Nie &nbsp;
       <a href="/files/TIP2025.PDF" style="border: 1px solid #0066cc; border-radius: 4px; padding: 1px 10px; font-size: 0.82em; text-decoration: none; color: #0066cc; background: #f0f5ff;">PDF</a>
