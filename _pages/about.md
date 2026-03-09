@@ -161,6 +161,21 @@ Prior to Tsinghua, I received my B.S. Degree in Automation (Rail Transit Signal 
   </div>
 </div>
 
+<h1 style="font-size: 2.5em;">Patents</h1>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px; gap: 24px; padding: 16px 0 16px 20px; border-bottom: 1px solid #eee;">
+  <div style="flex: 1;">
+    <p style="margin: 0 0 8px 0; font-size: 1.05em; line-height: 1.5; text-align: justify; padding-right: 10px;"><strong><a href="/files/Patent-1.pdf" style="text-decoration: none; color: inherit;">Virtual collision testing methods, apparatus, equipment, storage media, and software products</a></strong></p>
+    <p style="margin: 0 0 6px 0; font-size: 0.95em;">Bingbing Nie, <strong>Siyuan Liu</strong>, Quan Li &nbsp;
+      <a href="/files/Patent-1.pdf" style="border: 1px solid #0066cc; border-radius: 4px; padding: 1px 10px; font-size: 0.82em; text-decoration: none; color: #0066cc; background: #f0f5ff;">PDF</a>
+    </p>
+    <p style="margin: 0; font-size: 0.9em; color: #e07b00; font-style: italic; font-weight: 500;">Chinese Patent, ZL 202211605116.9, 2024</p>
+  </div>
+  <div style="flex-shrink: 0;">
+    <img src="/images/Patent-1.png" style="width: 160px; border: 1px solid #ddd; border-radius: 4px; box-shadow: 2px 2px 6px rgba(0,0,0,0.1);" />
+  </div>
+</div>
+
 <h1 style="font-size: 2.5em;">Contact</h1>
 
 - 📧 siyuan-l22@mails.tsinghua.edu.cn
