@@ -214,3 +214,16 @@ Prior to Tsinghua, I received my B.S. Degree in Automation (Rail Transit Signal 
     <img src="/images/Patent-4.png" style="width: 160px; border: 1px solid #ddd; border-radius: 4px; box-shadow: 2px 2px 6px rgba(0,0,0,0.1);" />
   </div>
 </div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px; gap: 24px; padding: 16px 0 16px 20px; border-bottom: 1px solid #eee;">
+  <div style="flex: 1;">
+    <p style="margin: 0 0 8px 0; font-size: 1.05em; line-height: 1.5; text-align: justify; padding-right: 10px;"><strong><a href="/files/Patent-5.pdf" style="text-decoration: none; color: inherit;">Response prediction methods, apparatus, computer equipment, storage media and program products</a></strong></p>
+    <p style="margin: 0 0 6px 0; font-size: 0.95em;">Bingbing Nie, Detong Qin, Qingfan Wang, Quan Li, Tianle Lu, <strong>Siyuan Liu</strong>, Qing Zhou &nbsp;
+      <a href="/files/Patent-5.pdf" style="border: 1px solid #0066cc; border-radius: 4px; padding: 1px 10px; font-size: 0.82em; text-decoration: none; color: #0066cc; background: #f0f5ff;">PDF</a>
+    </p>
+    <p style="margin: 0; font-size: 0.9em; color: #e07b00; font-style: italic; font-weight: 500;">Chinese Patent, ZL 202310890538.3, 2024</p>
+  </div>
+  <div style="flex-shrink: 0;">
+    <img src="/images/Patent-5.png" style="width: 160px; border: 1px solid #ddd; border-radius: 4px; box-shadow: 2px 2px 6px rgba(0,0,0,0.1);" />
+  </div>
+</div>
