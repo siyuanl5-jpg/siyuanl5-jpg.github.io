@@ -10,7 +10,7 @@ author_profile: true
 <ul style="margin: 6px 0; padding-left: 40px;">
 <li>基于扩散模型与离线强化学习的安全关键行人-自动驾驶车辆交互场景生成；</li>
 <li>基于人类反馈强化学习（RLHF）的安全关键行人轨迹预测；</li>
-<li>基于虚拟现实技术的安全关键场景行人决策行为分析；</li>
+<li>基于虚拟现实技术的安全关键场景行人决策行为采集与分析；</li>
 <li>基于动作捕捉技术的行人主动避让行为数据采集与分析。</li>
 </ul>
 在就读清华大学之前，我于2022年以优异成绩获得中南大学轨道交通信号与控制工学学士学位。</p>
@@ -22,8 +22,8 @@ author_profile: true
 <h1 style="font-size: 2.5em;">教育经历</h1>
 <div style="text-align: justify;">
 <ul style="padding-left: 40px;">
-<li><strong>博士研究生</strong>，清华大学车辆与运载学院汽车碰撞实验室，机械工程，2022–</li>
-<li><strong>访问学生与实习生</strong>，卡内基梅隆大学机械工程系SafeAI实验室，2025.9–</li>
+<li><strong>博士研究生</strong>，清华大学车辆与运载学院汽车碰撞试验室，机械工程，2022–</li>
+<li><strong>访问学生与实习生</strong>，卡耐基梅隆大学机械工程系SafeAI Lab，2025.9–</li>
 <li><strong>工学学士</strong>，中南大学交通运输工程学院，轨道交通信号与控制，2018–2022</li>
 </ul>
 </div>
