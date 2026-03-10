@@ -17,7 +17,7 @@ author_profile: true
 
 <p style="text-align: justify;">目前，我正在卡内基梅隆大学SafeAI实验室进行全职实习。我将于今年秋季进入求职市场，寻求全职职位！</p>
 
-<p style="text-align: right;"><a href="/">🌐 English Version</a></p>
+<p style="text-align: right;"><a href="/">🌐 英文版</a></p>
 
 <h1 style="font-size: 2.5em;">教育经历</h1>
 <div style="text-align: justify;">
