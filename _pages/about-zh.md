@@ -1,8 +1,26 @@
 ---
 permalink: /zh/
 title: ""
-author_profile: true
+author_profile: false
 ---
+
+<div style="display: flex; gap: 40px; align-items: flex-start;">
+
+<div style="width: 220px; flex-shrink: 0;">
+  <img src="/images/profile.png" style="width: 100%; border-radius: 50%; display: block; margin-bottom: 12px;" />
+  <h3 style="margin: 0 0 8px 0; font-size: 1.2em;">刘思远</h3>
+  <ul style="list-style: none; padding: 0; margin: 0; font-size: 0.9em; line-height: 2;">
+    <li>📍 北京，中国</li>
+    <li>🏛 清华大学<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;卡内基梅隆大学</li>
+    <li>✉️ <a href="mailto:siyuan-l22@mails.tsinghua.edu.cn">siyuan-l22@mails.tsinghua.edu.cn</a></li>
+    <li>📱 +86-132-1493-3392（中国）<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+1-412-450-2765（美国）</li>
+    <li>💬 微信：Siyuan-l22</li>
+    <li><a href="https://www.linkedin.com/in/siyuan-liu-19a669390">🔗 LinkedIn</a></li>
+  </ul>
+  <p style="margin-top: 16px; font-size: 0.9em;"><a href="/">🌐 English Version</a></p>
+</div>
+
+<div style="flex: 1; min-width: 0;">
 
 <h1 style="font-size: 2.5em;">个人简介</h1>
 
@@ -16,8 +34,6 @@ author_profile: true
 在清华大学就读之前，我于2022年以优异成绩获得中南大学自动化（轨道交通信号与控制）工学学士学位。</p>
 
 <p style="text-align: justify;">目前，我正在卡内基梅隆大学SafeAI实验室进行全职实习。我将于今年秋季进入求职市场，寻求全职职位！</p>
-
-<p style="text-align: right;"><a href="/">🌐 English Version</a></p>
 
 <h1 style="font-size: 2.5em;">教育经历</h1>
 <div style="text-align: justify;">
@@ -58,14 +74,14 @@ author_profile: true
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px; gap: 24px; padding: 16px 0 16px 20px; border-bottom: 1px solid #eee;">
   <div style="flex: 1;">
-    <p style="margin: 0 0 8px 0; font-size: 1.05em; line-height: 1.5; text-align: justify; padding-right: 10px;"><strong><a href="/files/TITS2026.pdf" style="text-decoration: none; color: inherit;">How Pedestrians React to Imminent Vehicle Threats: A Virtual Reality Study in Safety-Critical Scenarios</a></strong></p>
+    <p style="margin: 0 0 8px 0; font-size: 1.05em; line-height: 1.5; text-align: justify; padding-right: 10px;"><strong><a href="/files/TITS.pdf" style="text-decoration: none; color: inherit;">How Pedestrians React to Imminent Vehicle Threats: A Virtual Reality Study in Safety-Critical Scenarios</a></strong></p>
     <p style="margin: 0 0 6px 0; font-size: 0.95em;"><strong>刘思远</strong>, 李泉, 谭朴源, 孙花木, 张博, 卢威, 王铮, 周青, 聂冰冰* &nbsp;
-      <a href="/files/TITS2026.pdf" style="border: 1px solid #0066cc; border-radius: 4px; padding: 1px 10px; font-size: 0.82em; text-decoration: none; color: #0066cc; background: #f0f5ff;">PDF</a>
+      <a href="/files/TITS.pdf" style="border: 1px solid #0066cc; border-radius: 4px; padding: 1px 10px; font-size: 0.82em; text-decoration: none; color: #0066cc; background: #f0f5ff;">PDF</a>
     </p>
     <p style="margin: 0; font-size: 0.9em; color: #e07b00; font-style: italic; font-weight: 500;">审稿中</p>
   </div>
   <div style="flex-shrink: 0;">
-    <img src="/images/TITS2026.png" style="width: 160px; border: 1px solid #ddd; border-radius: 4px; box-shadow: 2px 2px 6px rgba(0,0,0,0.1);" />
+    <img src="/images/TITS.png" style="width: 160px; border: 1px solid #ddd; border-radius: 4px; box-shadow: 2px 2px 6px rgba(0,0,0,0.1);" />
   </div>
 </div>
 
@@ -165,7 +181,7 @@ author_profile: true
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px; gap: 24px; padding: 16px 0 16px 20px; border-bottom: 1px solid #eee;">
   <div style="flex: 1;">
     <p style="margin: 0 0 8px 0; font-size: 1.05em; line-height: 1.5; text-align: justify; padding-right: 10px;"><strong><a href="/files/Patent-1.pdf" style="text-decoration: none; color: inherit;">Virtual collision testing methods, apparatus, equipment, storage media, and software products</a></strong></p>
-    <p style="margin: 0 0 6px 0; font-size: 0.95em;">聂冰冰, <strong>刘思远</strong>, 李泉, 周青 &nbsp;
+    <p style="margin: 0 0 6px 0; font-size: 0.95em;">聂冰冰, <strong>刘思远</strong>, 李泉 &nbsp;
       <a href="/files/Patent-1.pdf" style="border: 1px solid #0066cc; border-radius: 4px; padding: 1px 10px; font-size: 0.82em; text-decoration: none; color: #0066cc; background: #f0f5ff;">PDF</a>
     </p>
     <p style="margin: 0; font-size: 0.9em; color: #e07b00; font-style: italic; font-weight: 500;">中国发明专利，ZL 202211605116.9，2024</p>
@@ -178,7 +194,7 @@ author_profile: true
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px; gap: 24px; padding: 16px 0 16px 20px; border-bottom: 1px solid #eee;">
   <div style="flex: 1;">
     <p style="margin: 0 0 8px 0; font-size: 1.05em; line-height: 1.5; text-align: justify; padding-right: 10px;"><strong><a href="/files/Patent-2.pdf" style="text-decoration: none; color: inherit;">Risk domain identification methods, apparatus, computer equipment, media and program products</a></strong></p>
-    <p style="margin: 0 0 6px 0; font-size: 0.95em;">聂冰冰, <strong>刘思远</strong>, 李泉, 周青 &nbsp;
+    <p style="margin: 0 0 6px 0; font-size: 0.95em;">聂冰冰, <strong>刘思远</strong>, 李泉 &nbsp;
       <a href="/files/Patent-2.pdf" style="border: 1px solid #0066cc; border-radius: 4px; padding: 1px 10px; font-size: 0.82em; text-decoration: none; color: #0066cc; background: #f0f5ff;">PDF</a>
     </p>
     <p style="margin: 0; font-size: 0.9em; color: #e07b00; font-style: italic; font-weight: 500;">中国发明专利，ZL 202211621618.0，2023</p>
@@ -244,3 +260,6 @@ author_profile: true
 
 - 📧 siyuan-l22@mails.tsinghua.edu.cn
 - 📧 siyuanl5@andrew.cmu.edu
+
+</div>
+</div>
