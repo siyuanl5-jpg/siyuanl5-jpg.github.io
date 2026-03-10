@@ -7,15 +7,6 @@ redirect_from:
   - /about.html
 ---
 
----
-permalink: /
-title: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 <h1 style="font-size: 2.5em;">Biography</h1>
 
 <p style="text-align: justify;">I am a final-year PhD student at the Automotive Collision Laboratory (ACL), School of Vehicle and Mobility, Tsinghua University, advised by Prof. Qing Zhou and Prof. Bingbing Nie. I am also an intern at the SafeAI Lab, Carnegie Mellon University, advised by Prof. Ding Zhao. My research focuses on modeling digital pedestrians for autonomous driving safety evaluation and developing pedestrian protection algorithm, including:
