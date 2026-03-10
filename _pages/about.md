@@ -34,7 +34,7 @@ Prior to Tsinghua, I received my B.S. Degree in Automation (Rail Transit Signal 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px; gap: 24px; padding: 16px 0 16px 20px; border-bottom: 1px solid #eee;">
   <div style="flex: 1;">
     <p style="margin: 0 0 8px 0; font-size: 1.05em; line-height: 1.5; text-align: justify; padding-right: 10px;"><strong><a href="/files/IROS2026.pdf" style="text-decoration: none; color: inherit;">Reasoning on Sidewalks: Generating Safety-Critical Pedestrian-Delivery Robot Interactions via Causal Diffusion</a></strong></p>
-    <p style="margin: 0 0 6px 0; font-size: 0.95em;"><strong>Siyuan Liu</strong>, Miao Li, Haohong Lin, Qing Zhou, Bingbing Nie, Ding Zhao &nbsp;
+    <p style="margin: 0 0 6px 0; font-size: 0.95em;"><strong>Siyuan Liu</strong>, Miao Li, Haohong Lin, Qing Zhou, Bingbing Nie*, Ding Zhao &nbsp;
       <a href="/files/IROS2026.pdf" style="border: 1px solid #0066cc; border-radius: 4px; padding: 1px 10px; font-size: 0.82em; text-decoration: none; color: #0066cc; background: #f0f5ff;">PDF</a>
     </p>
     <p style="margin: 0; font-size: 0.9em; color: #e07b00; font-style: italic; font-weight: 500;">Under Review</p>
@@ -47,7 +47,7 @@ Prior to Tsinghua, I received my B.S. Degree in Automation (Rail Transit Signal 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px; gap: 24px; padding: 16px 0 16px 20px; border-bottom: 1px solid #eee;">
   <div style="flex: 1;">
     <p style="margin: 0 0 8px 0; font-size: 1.05em; line-height: 1.5; text-align: justify; padding-right: 10px;"><strong><a href="/files/ITSM2026.pdf" style="text-decoration: none; color: inherit;">Pedestrian Trajectory Prediction With Reinforcement Learning From a Human-Designed Reward Model</a></strong></p>
-    <p style="margin: 0 0 6px 0; font-size: 0.95em;"><strong>Siyuan Liu</strong>, Yi Yang, Xin Gao, Liangliang Shi, Jiaxin Liu, Jie Chen, Quan Li, Qing Zhou, Bingbing Nie &nbsp;
+    <p style="margin: 0 0 6px 0; font-size: 0.95em;"><strong>Siyuan Liu</strong>, Yi Yang, Xin Gao, Liangliang Shi, Jiaxin Liu, Jie Chen, Quan Li, Qing Zhou, Bingbing Nie* &nbsp;
       <a href="/files/ITSM2026.pdf" style="border: 1px solid #0066cc; border-radius: 4px; padding: 1px 10px; font-size: 0.82em; text-decoration: none; color: #0066cc; background: #f0f5ff;">PDF</a>
     </p>
     <p style="margin: 0; font-size: 0.9em; color: #e07b00; font-style: italic; font-weight: 500;">IEEE Intelligent Transportation Systems Magazine, 2026</p>
@@ -60,7 +60,7 @@ Prior to Tsinghua, I received my B.S. Degree in Automation (Rail Transit Signal 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px; gap: 24px; padding: 16px 0 16px 20px; border-bottom: 1px solid #eee;">
   <div style="flex: 1;">
     <p style="margin: 0 0 8px 0; font-size: 1.05em; line-height: 1.5; text-align: justify; padding-right: 10px;"><strong><a href="/files/TITS2026.pdf" style="text-decoration: none; color: inherit;">How Pedestrians React to Imminent Vehicle Threats: A Virtual Reality Study in Safety-Critical Scenarios</a></strong></p>
-    <p style="margin: 0 0 6px 0; font-size: 0.95em;"><strong>Siyuan Liu</strong>, Quan Li, Puyuan Tan, Huamu Sun, Bo Zhang, Wei Lu, Zheng Wang, Qing Zhou, Bingbing Nie &nbsp;
+    <p style="margin: 0 0 6px 0; font-size: 0.95em;"><strong>Siyuan Liu</strong>, Quan Li, Puyuan Tan, Huamu Sun, Bo Zhang, Wei Lu, Zheng Wang, Qing Zhou, Bingbing Nie* &nbsp;
       <a href="/files/TITS2026.pdf" style="border: 1px solid #0066cc; border-radius: 4px; padding: 1px 10px; font-size: 0.82em; text-decoration: none; color: #0066cc; background: #f0f5ff;">PDF</a>
     </p>
     <p style="margin: 0; font-size: 0.9em; color: #e07b00; font-style: italic; font-weight: 500;">Under Review</p>
@@ -73,7 +73,7 @@ Prior to Tsinghua, I received my B.S. Degree in Automation (Rail Transit Signal 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px; gap: 24px; padding: 16px 0 16px 20px; border-bottom: 1px solid #eee;">
   <div style="flex: 1;">
     <p style="margin: 0 0 8px 0; font-size: 1.05em; line-height: 1.5; text-align: justify; padding-right: 10px;"><strong><a href="/files/TIP2025.pdf" style="text-decoration: none; color: inherit;">Investigation of pre-crash avoidance kinematics in pedestrians of different ages through volunteer experiment and scaling methodology</a></strong></p>
-    <p style="margin: 0 0 6px 0; font-size: 0.95em;"><strong>Siyuan Liu</strong>, Quan Li, Huamu Sun, Qing Zhou, Bingbing Nie &nbsp;
+    <p style="margin: 0 0 6px 0; font-size: 0.95em;"><strong>Siyuan Liu</strong>, Quan Li, Huamu Sun, Qing Zhou, Bingbing Nie* &nbsp;
       <a href="/files/TIP2025.pdf" style="border: 1px solid #0066cc; border-radius: 4px; padding: 1px 10px; font-size: 0.82em; text-decoration: none; color: #0066cc; background: #f0f5ff;">PDF</a>
     </p>
     <p style="margin: 0; font-size: 0.9em; color: #e07b00; font-style: italic; font-weight: 500;">Traffic Injury Prevention, 2025</p>
@@ -86,7 +86,7 @@ Prior to Tsinghua, I received my B.S. Degree in Automation (Rail Transit Signal 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px; gap: 24px; padding: 16px 0 16px 20px; border-bottom: 1px solid #eee;">
   <div style="flex: 1;">
     <p style="margin: 0 0 8px 0; font-size: 1.05em; line-height: 1.5; text-align: justify; padding-right: 10px;"><strong><a href="/files/IRCOBI2023.pdf" style="text-decoration: none; color: inherit;">Constructing a virtual testing platform on pedestrian safety incorporating active human behaviour for highly automated vehicles</a></strong></p>
-    <p style="margin: 0 0 6px 0; font-size: 0.95em;"><strong>Siyuan Liu</strong>, Quan Li, Qing Zhou, Bingbing Nie &nbsp;
+    <p style="margin: 0 0 6px 0; font-size: 0.95em;"><strong>Siyuan Liu</strong>, Quan Li, Qing Zhou, Bingbing Nie* &nbsp;
       <a href="/files/IRCOBI2023.pdf" style="border: 1px solid #0066cc; border-radius: 4px; padding: 1px 10px; font-size: 0.82em; text-decoration: none; color: #0066cc; background: #f0f5ff;">PDF</a>
     </p>
     <p style="margin: 0; font-size: 0.9em; color: #e07b00; font-style: italic; font-weight: 500;">IRCOBI Conference, 2023</p>
@@ -99,7 +99,7 @@ Prior to Tsinghua, I received my B.S. Degree in Automation (Rail Transit Signal 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px; gap: 24px; padding: 16px 0 16px 20px; border-bottom: 1px solid #eee;">
   <div style="flex: 1;">
     <p style="margin: 0 0 8px 0; font-size: 1.05em; line-height: 1.5; text-align: justify; padding-right: 10px;"><strong><a href="/files/CRPS2026.pdf" style="text-decoration: none; color: inherit;">Pedestrian decision-making uncertainty in urgent scenarios modulates multi-level, neural hierarchies</a></strong></p>
-    <p style="margin: 0 0 6px 0; font-size: 0.95em;">Quan Li, <strong>Siyuan Liu</strong>, Shi Shang, Bowen Li, Xiaorong Gao, Jianqiang Wang, Bingbing Nie &nbsp;
+    <p style="margin: 0 0 6px 0; font-size: 0.95em;">Quan Li, <strong>Siyuan Liu</strong>, Shi Shang, Bowen Li, Xiaorong Gao, Jianqiang Wang, Bingbing Nie* &nbsp;
       <a href="/files/CRPS2026.pdf" style="border: 1px solid #0066cc; border-radius: 4px; padding: 1px 10px; font-size: 0.82em; text-decoration: none; color: #0066cc; background: #f0f5ff;">PDF</a>
     </p>
     <p style="margin: 0; font-size: 0.9em; color: #e07b00; font-style: italic; font-weight: 500;">Cell Reports Physical Science, 2025</p>
@@ -112,7 +112,7 @@ Prior to Tsinghua, I received my B.S. Degree in Automation (Rail Transit Signal 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px; gap: 24px; padding: 16px 0 16px 20px; border-bottom: 1px solid #eee;">
   <div style="flex: 1;">
     <p style="margin: 0 0 8px 0; font-size: 1.05em; line-height: 1.5; text-align: justify; padding-right: 10px;"><strong><a href="https://doi.org/10.1016/j.aap.2024.107870" style="text-decoration: none; color: inherit;">Activation strategies and effectiveness of Intelligent safety systems for reducing pedestrian injuries in autonomous vehicles</a></strong></p>
-    <p style="margin: 0 0 6px 0; font-size: 0.95em;">Quan Li, Yiran Luo, <strong>Siyuan Liu</strong>, Tianle Lu, Liangliang Shi, Wei Ji, Yong Han, Hong Wang, Bingbing Nie &nbsp;
+    <p style="margin: 0 0 6px 0; font-size: 0.95em;">Quan Li, Yiran Luo, <strong>Siyuan Liu</strong>, Tianle Lu, Liangliang Shi, Wei Ji, Yong Han, Hong Wang, Bingbing Nie* &nbsp;
       <a href="https://doi.org/10.1016/j.aap.2024.107870" style="border: 1px solid #0066cc; border-radius: 4px; padding: 1px 10px; font-size: 0.82em; text-decoration: none; color: #0066cc; background: #f0f5ff;">PDF</a>
     </p>
     <p style="margin: 0; font-size: 0.9em; color: #e07b00; font-style: italic; font-weight: 500;">Accident Analysis & Prevention, 2025</p>
@@ -125,7 +125,7 @@ Prior to Tsinghua, I received my B.S. Degree in Automation (Rail Transit Signal 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px; gap: 24px; padding: 16px 0 16px 20px; border-bottom: 1px solid #eee;">
   <div style="flex: 1;">
     <p style="margin: 0 0 8px 0; font-size: 1.05em; line-height: 1.5; text-align: justify; padding-right: 10px;"><strong><a href="https://doi.org/10.1016/j.aap.2025.108328" style="text-decoration: none; color: inherit;">Pedestrian modeling with realistic dynamic behaviors and its application in virtual safety testing for autonomous vehicles</a></strong></p>
-    <p style="margin: 0 0 6px 0; font-size: 0.95em;">Xin Gao, Quan Li, <strong>Siyuan Liu</strong>, Yiran Luo, Bo Zhang, Wei Lu, Zheng Wang, Qing Zhou, Bingbing Nie &nbsp;
+    <p style="margin: 0 0 6px 0; font-size: 0.95em;">Xin Gao, Quan Li, <strong>Siyuan Liu</strong>, Yiran Luo, Bo Zhang, Wei Lu, Zheng Wang, Qing Zhou, Bingbing Nie* &nbsp;
       <a href="https://doi.org/10.1016/j.aap.2025.108328" style="border: 1px solid #0066cc; border-radius: 4px; padding: 1px 10px; font-size: 0.82em; text-decoration: none; color: #0066cc; background: #f0f5ff;">PDF</a>
     </p>
     <p style="margin: 0; font-size: 0.9em; color: #e07b00; font-style: italic; font-weight: 500;">Accident Analysis & Prevention, 2026</p>
@@ -138,7 +138,7 @@ Prior to Tsinghua, I received my B.S. Degree in Automation (Rail Transit Signal 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px; gap: 24px; padding: 16px 0 16px 20px; border-bottom: 1px solid #eee;">
   <div style="flex: 1;">
     <p style="margin: 0 0 8px 0; font-size: 1.05em; line-height: 1.5; text-align: justify; padding-right: 10px;"><strong><a href="/files/AAP2026-2.pdf" style="text-decoration: none; color: inherit;">A Prediction-Based Framework for Developing Integrated Pedestrian Safety Systems under High-Risk Scenarios</a></strong></p>
-    <p style="margin: 0 0 6px 0; font-size: 0.95em;">Huamu Sun, <strong>Siyuan Liu</strong>, Quan Li, Jiajie Shen, Xin Gao, Xiangdong Ji, Yajun Zhang, Dongpeng Kou, Bingbing Nie &nbsp;
+    <p style="margin: 0 0 6px 0; font-size: 0.95em;">Huamu Sun, <strong>Siyuan Liu</strong>, Quan Li, Jiajie Shen, Xin Gao, Xiangdong Ji, Yajun Zhang, Dongpeng Kou, Bingbing Nie* &nbsp;
       <a href="/files/AAP2026-2.pdf" style="border: 1px solid #0066cc; border-radius: 4px; padding: 1px 10px; font-size: 0.82em; text-decoration: none; color: #0066cc; background: #f0f5ff;">PDF</a>
     </p>
     <p style="margin: 0; font-size: 0.9em; color: #e07b00; font-style: italic; font-weight: 500;">Under Review, 2026</p>
@@ -151,7 +151,7 @@ Prior to Tsinghua, I received my B.S. Degree in Automation (Rail Transit Signal 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px; gap: 24px; padding: 16px 0 16px 20px; border-bottom: 1px solid #eee;">
   <div style="flex: 1;">
     <p style="margin: 0 0 8px 0; font-size: 1.05em; line-height: 1.5; text-align: justify; padding-right: 10px;"><strong><a href="/files/SAE2026.pdf" style="text-decoration: none; color: inherit;">Pre-Crash Scenario Analysis and Generation for Integrated Safety System Virtual Testing with Real Accident Data</a></strong></p>
-    <p style="margin: 0 0 6px 0; font-size: 0.95em;">Guojie Wang, Xin Gao, <strong>Siyuan Liu</strong>, Jiaxin Liu, Quan Li, Liangliang Shi, Bingbing Nie &nbsp;
+    <p style="margin: 0 0 6px 0; font-size: 0.95em;">Guojie Wang, Xin Gao, <strong>Siyuan Liu</strong>, Jiaxin Liu, Quan Li, Liangliang Shi, Bingbing Nie* &nbsp;
       <a href="/files/SAE2026.pdf" style="border: 1px solid #0066cc; border-radius: 4px; padding: 1px 10px; font-size: 0.82em; text-decoration: none; color: #0066cc; background: #f0f5ff;">PDF</a>
     </p>
     <p style="margin: 0; font-size: 0.9em; color: #e07b00; font-style: italic; font-weight: 500;">SAE Conference, 2026</p>
