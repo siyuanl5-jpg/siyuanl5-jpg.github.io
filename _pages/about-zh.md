@@ -239,8 +239,3 @@ author_profile: true
     <img src="/images/Patent-6.png" style="width: 160px; border: 1px solid #ddd; border-radius: 4px; box-shadow: 2px 2px 6px rgba(0,0,0,0.1);" />
   </div>
 </div>
-
-<h1 style="font-size: 2.5em;">联系方式</h1>
-
-- 📧 siyuan-l22@mails.tsinghua.edu.cn
-- 📧 siyuanl5@andrew.cmu.edu
