@@ -22,16 +22,14 @@ repository               : "siyuanl5-jpg/siyuanl5-jpg.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
   avatar           : "profile.png"
-  name             : "Siyuan Liu"
-  pronouns         : # example: "she/her"  
-  location         : "Beijing China"
-  employer         : "Tsinghua University<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Carnegie Mellon University"
-  email            : "siyuan-l22@mails.tsinghua.edu.cn" 
+  name             : "刘斯源 / Siyuan Liu"
+  location         : "北京，中国 / Beijing, China"
+  employer         : "清华大学 / THU<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;卡内基梅隆大学 / CMU"
+  email            : "siyuan-l22@mails.tsinghua.edu.cn"
   linkedin         : "siyuan-liu-19a669390"
   wechat           : "Siyuan-l22"
-  phone            : "+86-132-1493-3392(China)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+1-412-450-2765(America)"
+  phone            : "+86-132-1493-3392(中国/China)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+1-412-450-2765(美国/America)"
 
 
 # Publication Category - The following the list of publication categories and their headings
