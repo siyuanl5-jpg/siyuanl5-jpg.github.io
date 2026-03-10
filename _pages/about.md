@@ -21,6 +21,8 @@ Prior to Tsinghua, I received my B.S. Degree in Automation (Rail Transit Signal 
 
 <p style="text-align: justify;">I'm currently working as a fulltime intern at the SafeAI Lab, Carnegie Mellon University. I will on the job market this fall for a full-time position!</p>
 
+<p style="text-align: right;"><a href="/zh/">🌐 中文版</a></p>
+
 <h1 style="font-size: 2.5em;">Education</h1>
 <div style="text-align: justify;">
 <ul style="padding-left: 40px;">
