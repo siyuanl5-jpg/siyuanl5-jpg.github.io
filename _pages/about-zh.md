@@ -164,8 +164,8 @@ author_profile: true
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px; gap: 24px; padding: 16px 0 16px 20px; border-bottom: 1px solid #eee;">
   <div style="flex: 1;">
-    <p style="margin: 0 0 8px 0; font-size: 1.05em; line-height: 1.5; text-align: justify; padding-right: 10px;"><strong><a href="/files/Patent-1.pdf" style="text-decoration: none; color: inherit;">Virtual collision testing methods, apparatus, equipment, storage media, and software products</a></strong></p>
-    <p style="margin: 0 0 6px 0; font-size: 0.95em;">聂冰冰, <strong>刘思远</strong>, 李泉, 周青 &nbsp;
+    <p style="margin: 0 0 8px 0; font-size: 1.05em; line-height: 1.5; text-align: justify; padding-right: 10px;"><strong><a href="/files/Patent-1.pdf" style="text-decoration: none; color: inherit;">虚拟碰撞测试方法、装置、设备、存储介质和程序产品</a></strong></p>
+    <p style="margin: 0 0 6px 0; font-size: 0.95em;">聂冰冰, <strong>刘斯源</strong>, 李泉, 周青 &nbsp;
       <a href="/files/Patent-1.pdf" style="border: 1px solid #0066cc; border-radius: 4px; padding: 1px 10px; font-size: 0.82em; text-decoration: none; color: #0066cc; background: #f0f5ff;">PDF</a>
     </p>
     <p style="margin: 0; font-size: 0.9em; color: #e07b00; font-style: italic; font-weight: 500;">中国发明专利，ZL 202211605116.9，2024</p>
@@ -177,8 +177,8 @@ author_profile: true
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px; gap: 24px; padding: 16px 0 16px 20px; border-bottom: 1px solid #eee;">
   <div style="flex: 1;">
-    <p style="margin: 0 0 8px 0; font-size: 1.05em; line-height: 1.5; text-align: justify; padding-right: 10px;"><strong><a href="/files/Patent-2.pdf" style="text-decoration: none; color: inherit;">Risk domain identification methods, apparatus, computer equipment, media and program products</a></strong></p>
-    <p style="margin: 0 0 6px 0; font-size: 0.95em;">聂冰冰, <strong>刘思远</strong>, 李泉, 周青 &nbsp;
+    <p style="margin: 0 0 8px 0; font-size: 1.05em; line-height: 1.5; text-align: justify; padding-right: 10px;"><strong><a href="/files/Patent-2.pdf" style="text-decoration: none; color: inherit;">风险域确定方法、装置、计算机设备、介质和程序产品</a></strong></p>
+    <p style="margin: 0 0 6px 0; font-size: 0.95em;">聂冰冰, <strong>刘斯源</strong>, 李泉, 周青 &nbsp;
       <a href="/files/Patent-2.pdf" style="border: 1px solid #0066cc; border-radius: 4px; padding: 1px 10px; font-size: 0.82em; text-decoration: none; color: #0066cc; background: #f0f5ff;">PDF</a>
     </p>
     <p style="margin: 0; font-size: 0.9em; color: #e07b00; font-style: italic; font-weight: 500;">中国发明专利，ZL 202211621618.0，2023</p>
@@ -190,8 +190,8 @@ author_profile: true
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px; gap: 24px; padding: 16px 0 16px 20px; border-bottom: 1px solid #eee;">
   <div style="flex: 1;">
-    <p style="margin: 0 0 8px 0; font-size: 1.05em; line-height: 1.5; text-align: justify; padding-right: 10px;"><strong><a href="/files/Patent-3.pdf" style="text-decoration: none; color: inherit;">Method and apparatus for determining safety strategies based on dynamic interaction between pedestrians and vehicles</a></strong></p>
-    <p style="margin: 0 0 6px 0; font-size: 0.95em;">聂冰冰, 李泉, <strong>刘思远</strong>, 秦德桐, 卢天乐 &nbsp;
+    <p style="margin: 0 0 8px 0; font-size: 1.05em; line-height: 1.5; text-align: justify; padding-right: 10px;"><strong><a href="/files/Patent-3.pdf" style="text-decoration: none; color: inherit;">基于行人车辆动态交互的安全策略确定方法和装置</a></strong></p>
+    <p style="margin: 0 0 6px 0; font-size: 0.95em;">聂冰冰, 李泉, <strong>刘斯源</strong>, 秦德通, 卢天乐 &nbsp;
       <a href="/files/Patent-3.pdf" style="border: 1px solid #0066cc; border-radius: 4px; padding: 1px 10px; font-size: 0.82em; text-decoration: none; color: #0066cc; background: #f0f5ff;">PDF</a>
     </p>
     <p style="margin: 0; font-size: 0.9em; color: #e07b00; font-style: italic; font-weight: 500;">中国发明专利，ZL 202311388825.0，2024</p>
@@ -203,8 +203,8 @@ author_profile: true
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px; gap: 24px; padding: 16px 0 16px 20px; border-bottom: 1px solid #eee;">
   <div style="flex: 1;">
-    <p style="margin: 0 0 8px 0; font-size: 1.05em; line-height: 1.5; text-align: justify; padding-right: 10px;"><strong><a href="/files/Patent-4.pdf" style="text-decoration: none; color: inherit;">Test methods, devices and systems for pedestrian integrated active and passive safety systems</a></strong></p>
-    <p style="margin: 0 0 6px 0; font-size: 0.95em;">聂冰冰, 李泉, 卢天乐, <strong>刘思远</strong>, 魏新琦, 周青 &nbsp;
+    <p style="margin: 0 0 8px 0; font-size: 1.05em; line-height: 1.5; text-align: justify; padding-right: 10px;"><strong><a href="/files/Patent-4.pdf" style="text-decoration: none; color: inherit;">行人主被动一体化安全系统的测试方法、装置和系统</a></strong></p>
+    <p style="margin: 0 0 6px 0; font-size: 0.95em;">聂冰冰, 李泉, 卢天乐, <strong>刘斯源</strong>, 魏新奇, 周青 &nbsp;
       <a href="/files/Patent-4.pdf" style="border: 1px solid #0066cc; border-radius: 4px; padding: 1px 10px; font-size: 0.82em; text-decoration: none; color: #0066cc; background: #f0f5ff;">PDF</a>
     </p>
     <p style="margin: 0; font-size: 0.9em; color: #e07b00; font-style: italic; font-weight: 500;">中国发明专利，ZL 202410049034.3，2024</p>
@@ -216,8 +216,8 @@ author_profile: true
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px; gap: 24px; padding: 16px 0 16px 20px; border-bottom: 1px solid #eee;">
   <div style="flex: 1;">
-    <p style="margin: 0 0 8px 0; font-size: 1.05em; line-height: 1.5; text-align: justify; padding-right: 10px;"><strong><a href="/files/Patent-5.pdf" style="text-decoration: none; color: inherit;">Response prediction methods, apparatus, computer equipment, storage media and program products</a></strong></p>
-    <p style="margin: 0 0 6px 0; font-size: 0.95em;">聂冰冰, 秦德桐, 王清凡, 李泉, 卢天乐, <strong>刘思远</strong>, 周青 &nbsp;
+    <p style="margin: 0 0 8px 0; font-size: 1.05em; line-height: 1.5; text-align: justify; padding-right: 10px;"><strong><a href="/files/Patent-5.pdf" style="text-decoration: none; color: inherit;">响应预测方法、装置、计算机设备、存储介质和程序产品</a></strong></p>
+    <p style="margin: 0 0 6px 0; font-size: 0.95em;">聂冰冰, 秦德通, 王情帆, 李泉, 卢天乐, <strong>刘斯源</strong>, 周青 &nbsp;
       <a href="/files/Patent-5.pdf" style="border: 1px solid #0066cc; border-radius: 4px; padding: 1px 10px; font-size: 0.82em; text-decoration: none; color: #0066cc; background: #f0f5ff;">PDF</a>
     </p>
     <p style="margin: 0; font-size: 0.9em; color: #e07b00; font-style: italic; font-weight: 500;">中国发明专利，ZL 202310890538.3，2024</p>
@@ -229,8 +229,8 @@ author_profile: true
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px; gap: 24px; padding: 16px 0 16px 20px; border-bottom: 1px solid #eee;">
   <div style="flex: 1;">
-    <p style="margin: 0 0 8px 0; font-size: 1.05em; line-height: 1.5; text-align: justify; padding-right: 10px;"><strong><a href="/files/Patent-6.pdf" style="text-decoration: none; color: inherit;">Methods, devices and computer equipment for coordinated active and passive safety control of vehicles and pedestrians</a></strong></p>
-    <p style="margin: 0 0 6px 0; font-size: 0.95em;">聂冰冰, 李泉, 尚石, <strong>刘思远</strong>, 魏新琦, 周青 &nbsp;
+    <p style="margin: 0 0 8px 0; font-size: 1.05em; line-height: 1.5; text-align: justify; padding-right: 10px;"><strong><a href="/files/Patent-6.pdf" style="text-decoration: none; color: inherit;">车辆行人主被动安全协同控制方法、装置和计算机设备</a></strong></p>
+    <p style="margin: 0 0 6px 0; font-size: 0.95em;">聂冰冰, 李泉, 尚诗, <strong>刘斯源</strong>, 魏新奇, 周青 &nbsp;
       <a href="/files/Patent-6.pdf" style="border: 1px solid #0066cc; border-radius: 4px; padding: 1px 10px; font-size: 0.82em; text-decoration: none; color: #0066cc; background: #f0f5ff;">PDF</a>
     </p>
     <p style="margin: 0; font-size: 0.9em; color: #e07b00; font-style: italic; font-weight: 500;">中国发明专利，ZL 202310999049.1，2024</p>
