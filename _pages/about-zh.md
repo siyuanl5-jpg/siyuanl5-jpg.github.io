@@ -46,7 +46,7 @@ author_profile: true
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px; gap: 24px; padding: 16px 0 16px 20px; border-bottom: 1px solid #eee;">
   <div style="flex: 1;">
     <p style="margin: 0 0 8px 0; font-size: 1.05em; line-height: 1.5; text-align: justify; padding-right: 10px;"><strong><a href="/files/ITSM2026.pdf" style="text-decoration: none; color: inherit;">Pedestrian Trajectory Prediction With Reinforcement Learning From a Human-Designed Reward Model</a></strong></p>
-    <p style="margin: 0 0 6px 0; font-size: 0.95em;"><strong>刘思远</strong>, 杨毅, 高鑫, 史亮亮, 刘佳欣, 陈杰, 李泉, 周青, 聂冰冰* &nbsp;
+    <p style="margin: 0 0 6px 0; font-size: 0.95em;"><strong>Siyuan Liu</strong>, Yi Yang, Xin Gao, Liangliang Shi, Jiaxin Liu, Jie Chen, Quan Li, Qing Zhou, Bingbing Nie* &nbsp;
       <a href="/files/ITSM2026.pdf" style="border: 1px solid #0066cc; border-radius: 4px; padding: 1px 10px; font-size: 0.82em; text-decoration: none; color: #0066cc; background: #f0f5ff;">PDF</a>
     </p>
     <p style="margin: 0; font-size: 0.9em; color: #e07b00; font-style: italic; font-weight: 500;">IEEE Intelligent Transportation Systems Magazine, 2026</p>
@@ -59,10 +59,10 @@ author_profile: true
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px; gap: 24px; padding: 16px 0 16px 20px; border-bottom: 1px solid #eee;">
   <div style="flex: 1;">
     <p style="margin: 0 0 8px 0; font-size: 1.05em; line-height: 1.5; text-align: justify; padding-right: 10px;"><strong><a href="/files/TITS2026.pdf" style="text-decoration: none; color: inherit;">How Pedestrians React to Imminent Vehicle Threats: A Virtual Reality Study in Safety-Critical Scenarios</a></strong></p>
-    <p style="margin: 0 0 6px 0; font-size: 0.95em;"><strong>刘思远</strong>, 李泉, 谭朴源, 孙花木, 张博, 卢威, 王铮, 周青, 聂冰冰* &nbsp;
+    <p style="margin: 0 0 6px 0; font-size: 0.95em;"><strong>Siyuan Liu</strong>, Quan Li, Puyuan Tan, Huamu Sun, Bo Zhang, Wei Lu, Zheng Wang, Qing Zhou, Bingbing Nie* &nbsp;
       <a href="/files/TITS2026.pdf" style="border: 1px solid #0066cc; border-radius: 4px; padding: 1px 10px; font-size: 0.82em; text-decoration: none; color: #0066cc; background: #f0f5ff;">PDF</a>
     </p>
-    <p style="margin: 0; font-size: 0.9em; color: #e07b00; font-style: italic; font-weight: 500;">审稿中</p>
+    <p style="margin: 0; font-size: 0.9em; color: #e07b00; font-style: italic; font-weight: 500;">Under Review</p>
   </div>
   <div style="flex-shrink: 0;">
     <img src="/images/TITS2026.png" style="width: 160px; border: 1px solid #ddd; border-radius: 4px; box-shadow: 2px 2px 6px rgba(0,0,0,0.1);" />
@@ -72,7 +72,7 @@ author_profile: true
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px; gap: 24px; padding: 16px 0 16px 20px; border-bottom: 1px solid #eee;">
   <div style="flex: 1;">
     <p style="margin: 0 0 8px 0; font-size: 1.05em; line-height: 1.5; text-align: justify; padding-right: 10px;"><strong><a href="/files/TIP2025.pdf" style="text-decoration: none; color: inherit;">Investigation of pre-crash avoidance kinematics in pedestrians of different ages through volunteer experiment and scaling methodology</a></strong></p>
-    <p style="margin: 0 0 6px 0; font-size: 0.95em;"><strong>刘思远</strong>, 李泉, 孙花木, 周青, 聂冰冰* &nbsp;
+    <p style="margin: 0 0 6px 0; font-size: 0.95em;"><strong>Siyuan Liu</strong>, Quan Li, Huamu Sun, Qing Zhou, Bingbing Nie* &nbsp;
       <a href="/files/TIP2025.pdf" style="border: 1px solid #0066cc; border-radius: 4px; padding: 1px 10px; font-size: 0.82em; text-decoration: none; color: #0066cc; background: #f0f5ff;">PDF</a>
     </p>
     <p style="margin: 0; font-size: 0.9em; color: #e07b00; font-style: italic; font-weight: 500;">Traffic Injury Prevention, 2025</p>
@@ -85,7 +85,7 @@ author_profile: true
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px; gap: 24px; padding: 16px 0 16px 20px; border-bottom: 1px solid #eee;">
   <div style="flex: 1;">
     <p style="margin: 0 0 8px 0; font-size: 1.05em; line-height: 1.5; text-align: justify; padding-right: 10px;"><strong><a href="/files/IRCOBI2023.pdf" style="text-decoration: none; color: inherit;">Constructing a virtual testing platform on pedestrian safety incorporating active human behaviour for highly automated vehicles</a></strong></p>
-    <p style="margin: 0 0 6px 0; font-size: 0.95em;"><strong>刘思远</strong>, 李泉, 周青, 聂冰冰* &nbsp;
+    <p style="margin: 0 0 6px 0; font-size: 0.95em;"><strong>Siyuan Liu</strong>, Quan Li, Qing Zhou, Bingbing Nie* &nbsp;
       <a href="/files/IRCOBI2023.pdf" style="border: 1px solid #0066cc; border-radius: 4px; padding: 1px 10px; font-size: 0.82em; text-decoration: none; color: #0066cc; background: #f0f5ff;">PDF</a>
     </p>
     <p style="margin: 0; font-size: 0.9em; color: #e07b00; font-style: italic; font-weight: 500;">IRCOBI Conference, 2023</p>
@@ -98,7 +98,7 @@ author_profile: true
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px; gap: 24px; padding: 16px 0 16px 20px; border-bottom: 1px solid #eee;">
   <div style="flex: 1;">
     <p style="margin: 0 0 8px 0; font-size: 1.05em; line-height: 1.5; text-align: justify; padding-right: 10px;"><strong><a href="/files/CRPS2026.pdf" style="text-decoration: none; color: inherit;">Pedestrian decision-making uncertainty in urgent scenarios modulates multi-level, neural hierarchies</a></strong></p>
-    <p style="margin: 0 0 6px 0; font-size: 0.95em;">李泉, <strong>刘思远</strong>, 尚石, 李博文, 高小榕, 王建强, 聂冰冰* &nbsp;
+    <p style="margin: 0 0 6px 0; font-size: 0.95em;">Quan Li, <strong>Siyuan Liu</strong>, Shi Shang, Bowen Li, Xiaorong Gao, Jianqiang Wang, Bingbing Nie* &nbsp;
       <a href="/files/CRPS2026.pdf" style="border: 1px solid #0066cc; border-radius: 4px; padding: 1px 10px; font-size: 0.82em; text-decoration: none; color: #0066cc; background: #f0f5ff;">PDF</a>
     </p>
     <p style="margin: 0; font-size: 0.9em; color: #e07b00; font-style: italic; font-weight: 500;">Cell Reports Physical Science, 2025</p>
@@ -111,7 +111,7 @@ author_profile: true
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px; gap: 24px; padding: 16px 0 16px 20px; border-bottom: 1px solid #eee;">
   <div style="flex: 1;">
     <p style="margin: 0 0 8px 0; font-size: 1.05em; line-height: 1.5; text-align: justify; padding-right: 10px;"><strong><a href="https://doi.org/10.1016/j.aap.2024.107870" style="text-decoration: none; color: inherit;">Activation strategies and effectiveness of Intelligent safety systems for reducing pedestrian injuries in autonomous vehicles</a></strong></p>
-    <p style="margin: 0 0 6px 0; font-size: 0.95em;">李泉, 罗逸然, <strong>刘思远</strong>, 卢天乐, 史亮亮, 纪威, 韩勇, 王宏, 聂冰冰* &nbsp;
+    <p style="margin: 0 0 6px 0; font-size: 0.95em;">Quan Li, Yiran Luo, <strong>Siyuan Liu</strong>, Tianle Lu, Liangliang Shi, Wei Ji, Yong Han, Hong Wang, Bingbing Nie* &nbsp;
       <a href="https://doi.org/10.1016/j.aap.2024.107870" style="border: 1px solid #0066cc; border-radius: 4px; padding: 1px 10px; font-size: 0.82em; text-decoration: none; color: #0066cc; background: #f0f5ff;">PDF</a>
     </p>
     <p style="margin: 0; font-size: 0.9em; color: #e07b00; font-style: italic; font-weight: 500;">Accident Analysis & Prevention, 2025</p>
@@ -124,7 +124,7 @@ author_profile: true
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px; gap: 24px; padding: 16px 0 16px 20px; border-bottom: 1px solid #eee;">
   <div style="flex: 1;">
     <p style="margin: 0 0 8px 0; font-size: 1.05em; line-height: 1.5; text-align: justify; padding-right: 10px;"><strong><a href="https://doi.org/10.1016/j.aap.2025.108328" style="text-decoration: none; color: inherit;">Pedestrian modeling with realistic dynamic behaviors and its application in virtual safety testing for autonomous vehicles</a></strong></p>
-    <p style="margin: 0 0 6px 0; font-size: 0.95em;">高鑫, 李泉, <strong>刘思远</strong>, 罗逸然, 张博, 卢威, 王铮, 周青, 聂冰冰* &nbsp;
+    <p style="margin: 0 0 6px 0; font-size: 0.95em;">Xin Gao, Quan Li, <strong>Siyuan Liu</strong>, Yiran Luo, Bo Zhang, Wei Lu, Zheng Wang, Qing Zhou, Bingbing Nie* &nbsp;
       <a href="https://doi.org/10.1016/j.aap.2025.108328" style="border: 1px solid #0066cc; border-radius: 4px; padding: 1px 10px; font-size: 0.82em; text-decoration: none; color: #0066cc; background: #f0f5ff;">PDF</a>
     </p>
     <p style="margin: 0; font-size: 0.9em; color: #e07b00; font-style: italic; font-weight: 500;">Accident Analysis & Prevention, 2026</p>
@@ -137,7 +137,7 @@ author_profile: true
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px; gap: 24px; padding: 16px 0 16px 20px; border-bottom: 1px solid #eee;">
   <div style="flex: 1;">
     <p style="margin: 0 0 8px 0; font-size: 1.05em; line-height: 1.5; text-align: justify; padding-right: 10px;"><strong><a href="/files/AAP2026-2.pdf" style="text-decoration: none; color: inherit;">A Prediction-Based Framework for Developing Integrated Pedestrian Safety Systems under High-Risk Scenarios</a></strong></p>
-    <p style="margin: 0 0 6px 0; font-size: 0.95em;">孙花木, <strong>刘思远</strong>, 李泉, 沈佳杰, 高鑫, 纪向东, 张亚军, 寇东鹏, 聂冰冰* &nbsp;
+    <p style="margin: 0 0 6px 0; font-size: 0.95em;">Huamu Sun, <strong>Siyuan Liu</strong>, Quan Li, Jiajie Shen, Xin Gao, Xiaodong Ji, Yajun Zhang, Dongpeng Kou, Bingbing Nie* &nbsp;
       <a href="/files/AAP2026-2.pdf" style="border: 1px solid #0066cc; border-radius: 4px; padding: 1px 10px; font-size: 0.82em; text-decoration: none; color: #0066cc; background: #f0f5ff;">PDF</a>
     </p>
     <p style="margin: 0; font-size: 0.9em; color: #e07b00; font-style: italic; font-weight: 500;">审稿中, 2026</p>
@@ -150,7 +150,7 @@ author_profile: true
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px; gap: 24px; padding: 16px 0 16px 20px; border-bottom: 1px solid #eee;">
   <div style="flex: 1;">
     <p style="margin: 0 0 8px 0; font-size: 1.05em; line-height: 1.5; text-align: justify; padding-right: 10px;"><strong><a href="/files/SAE2026.pdf" style="text-decoration: none; color: inherit;">Pre-Crash Scenario Analysis and Generation for Integrated Safety System Virtual Testing with Real Accident Data</a></strong></p>
-    <p style="margin: 0 0 6px 0; font-size: 0.95em;">王国杰, 高鑫, <strong>刘思远</strong>, 刘佳欣, 李泉, 史亮亮, 聂冰冰* &nbsp;
+    <p style="margin: 0 0 6px 0; font-size: 0.95em;">Guojie Wang, Xin Gao, <strong>Siyuan Liu</strong>, Jiaxin Liu, Quan Li, Liangliang Shi, Bingbing Nie* &nbsp;
       <a href="/files/SAE2026.pdf" style="border: 1px solid #0066cc; border-radius: 4px; padding: 1px 10px; font-size: 0.82em; text-decoration: none; color: #0066cc; background: #f0f5ff;">PDF</a>
     </p>
     <p style="margin: 0; font-size: 0.9em; color: #e07b00; font-style: italic; font-weight: 500;">SAE Conference, 2026</p>
