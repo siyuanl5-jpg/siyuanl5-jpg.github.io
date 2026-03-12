@@ -97,9 +97,9 @@ author_profile: true
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px; gap: 24px; padding: 16px 0 16px 20px; border-bottom: 1px solid #eee;">
   <div style="flex: 1;">
-    <p style="margin: 0 0 8px 0; font-size: 1.05em; line-height: 1.5; text-align: justify; padding-right: 10px;"><strong><a href="/files/CRPS2026.pdf" style="text-decoration: none; color: inherit;">Pedestrian decision-making uncertainty in urgent scenarios modulates multi-level, neural hierarchies</a></strong></p>
+    <p style="margin: 0 0 8px 0; font-size: 1.05em; line-height: 1.5; text-align: justify; padding-right: 10px;"><strong><a href="/files/CRPS2025.pdf" style="text-decoration: none; color: inherit;">Pedestrian decision-making uncertainty in urgent scenarios modulates multi-level, neural hierarchies</a></strong></p>
     <p style="margin: 0 0 6px 0; font-size: 0.95em;">Quan Li, <strong>Siyuan Liu</strong>, Shi Shang, Bowen Li, Xiaorong Gao, Jianqiang Wang, Bingbing Nie* &nbsp;
-      <a href="/files/CRPS2026.pdf" style="border: 1px solid #0066cc; border-radius: 4px; padding: 1px 10px; font-size: 0.82em; text-decoration: none; color: #0066cc; background: #f0f5ff;">PDF</a>
+      <a href="/files/CRPS2025.pdf" style="border: 1px solid #0066cc; border-radius: 4px; padding: 1px 10px; font-size: 0.82em; text-decoration: none; color: #0066cc; background: #f0f5ff;">PDF</a>
     </p>
     <p style="margin: 0; font-size: 0.9em; color: #e07b00; font-style: italic; font-weight: 500;">Cell Reports Physical Science, 2025</p>
   </div>
