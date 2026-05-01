@@ -140,7 +140,7 @@ author_profile: true
     <p style="margin: 0 0 6px 0; font-size: 0.95em;">Huamu Sun, <strong>Siyuan Liu</strong>, Quan Li, Jiajie Shen, Xin Gao, Xiaodong Ji, Yajun Zhang, Dongpeng Kou, Bingbing Nie* &nbsp;
       <a href="/files/AAP2026-2.pdf" style="border: 1px solid #0066cc; border-radius: 4px; padding: 1px 10px; font-size: 0.82em; text-decoration: none; color: #0066cc; background: #f0f5ff;">PDF</a>
     </p>
-    <p style="margin: 0; font-size: 0.9em; color: #e07b00; font-style: italic; font-weight: 500;">Under Review, 2026</p>
+    <p style="margin: 0; font-size: 0.9em; color: #e07b00; font-style: italic; font-weight: 500;">Accident Analysis & Prevention, 2026</p>
   </div>
   <div style="flex-shrink: 0;">
     <img src="/images/AAP2026-2.png" style="width: 160px; border: 1px solid #ddd; border-radius: 4px; box-shadow: 2px 2px 6px rgba(0,0,0,0.1);" />
